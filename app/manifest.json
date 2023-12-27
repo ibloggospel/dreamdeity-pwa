@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "DreamDeity",
+  "short_name": "DreamDeity",
+  "description": "Christian Dream Interpretations, Christian Dream Dictionary",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
@@ -10,8 +10,8 @@
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#fff",
-  "theme_color": "#fff",
+  "background_color": "#0e2045",
+  "theme_color": "#0e2045",
   "icons": [
     {
       "src": "icons/favicon.ico",
@@ -90,10 +90,10 @@
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
-      "short_name": "My Shortcut 1",
-      "description": "My Shortcut 1 description goes here...",
-      "url": "/search/label/my-shortcut-1?utm_source=homescreen",
+      "name": "Dreams",
+      "short_name": "Dreams",
+      "description": "Quick access to dream interpretations",
+      "url": "/search/label/Dreams?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
@@ -102,10 +102,10 @@
       ]
     },
     {
-      "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
-      "description": "My Shortcut 2 description goes here...",
-      "url": "/search/label/my-shortcut-2?utm_source=homescreen",
+      "name": "Dreams Dictionary",
+      "short_name": "Dreams Dictionary",
+      "description": "Quick access to dreams dictionary",
+      "url": "/search/label/Dictionary?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
